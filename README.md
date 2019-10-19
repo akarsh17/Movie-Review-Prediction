@@ -14,4 +14,4 @@
 
 #### Prediction:
 
-##### Then, using 
+##### Then, using MultinomialNB and Multivariate Bernoulli Naive Bayes to predict the class of X_test.
